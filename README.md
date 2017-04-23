@@ -1,14 +1,9 @@
-# Minimal Theme
+# IE- An Introduction
 
-[Demo the Theme](http://orderedlist.github.com/minimal/)
+The purpose of this article is to present Information Extraction systems, how they work and their main components. Furthermore, this article introduce the diffrent metrics used to evaluate the performance of the extractor. 
 
-This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
+I would like to hear your opinion and remarks. 
 
-Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
-
-# License
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
+Thanks for reading ;)
 
 
